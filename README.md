@@ -3,6 +3,8 @@ Remaking a past full-stack Node.js application of mine into a Google Workspace w
 The README documentation for the original project is below. The remade app will include all the same functionality as the original app, along with an updated interface design.
 
 ---------- 
+---------- 
+
 
 # Pigging Operations History and Schedule
 Thinkful fullstack capstone project, a Pipeline Pigging Operations History and Schedule app which allows pigging activities to be historized and scheduled.
